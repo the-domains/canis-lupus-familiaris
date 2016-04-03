@@ -1,0 +1,28 @@
+name: Canis lupus familiaris
+favicon: null
+layout_spectrum: 0.9344024832826108
+typography_spectrum: 0.28605178161524236
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5809836110565811
+  lightness: 0.11913077649660408
+  saturation: 0.9901921856217086
+  rhythmicContrast: 0.1332055372186005
+purpose: []
